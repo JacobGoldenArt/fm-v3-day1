@@ -1,6 +1,6 @@
 # Nextjs Starter
 
-## Finally got prettier and eslint working together!
+## frontend masters learning nextjs. v3 day 1.
 
 Use the @latest version of Next, React and Typescript etc...
 
